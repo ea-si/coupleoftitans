@@ -7,8 +7,8 @@ class Footer extends Component {
         <div className="pa3">
           <p className="lh-title tc lh-copy">
             Journal by{' '}
-            <a className="link dim black" href="https://twitter.com/p0pmaker">
-              Jacky Lee
+            <a className="link dim black" href="https://instagram.com/coupleoftitans">
+              Couple of Titans
             </a>
             <span className="mh2 o-50">•</span>
             Built with{' '}

@@ -110,7 +110,7 @@ $map-height: 200px;
   top: -3px;
 }
 .sans-serif {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 @keyframes loaderAnimation {
@@ -165,8 +165,8 @@ $map-height: 200px;
 }
 
 .serif {
-  font-family: 'IBM Plex Serif', serif;
-  font-family: 'Merriweather', serif;
+  font-family: 'Oswald', serif;
+  font-family: 'Oswald', serif;
 }
 
 .gatsby-resp-image-link {
@@ -178,7 +178,7 @@ $map-height: 200px;
 
 // Overriding markdown body styles
 .markdown-body {
-  font-family: 'IBM Plex Sans', sans-serif !important;
+  font-family: 'IBM Plex Sans Condensed', sans-serif !important;
   h1 {
     font-size: 36px !important;
 
@@ -191,7 +191,7 @@ $map-height: 200px;
   h2,
   h3,
   h4 {
-    font-family: 'Merriweather', serif;
+    font-family: 'IBM Plex Sans Condensed', serif;
   }
 
   p,

@@ -6,10 +6,10 @@ import SEO from '../components/seo'
 
 const RidesPage = ({ data }) => {
   // let allPosts = data.allPosts.edges
-  let newZealandPosts = data.newZealandPosts.edges
-  let taiwanPosts = data.taiwanPosts.edges
+  let austriaPosts = data.austriaPosts.edges
+  let slovakPosts = data.slovakPosts.edges
 
-  console.log(taiwanPosts)
+  console.log(slovakPosts)
 
   // Truncate post excerpt function
   let excerptTruncate = (str, number_of_words) => {
@@ -25,9 +25,9 @@ const RidesPage = ({ data }) => {
     <IndexLayout>
       <SEO title="Rides" keywords={[`gatsby`, `application`, `react`]} />
       <div className="mw9 center w-100 mb4 ph3-l flex-grow-1">
-        <h3 className="mw9 black bb mh3-l pv3 mh4 fw1">Taiwan</h3>
+        <h3 className="mw9 black bb mh3-l pv3 mh4 fw1">Slovakia</h3>
         <div className="w-100 flex flex-wrap w-100-l pa3 pa0-l">
-          {taiwanPosts.map(({ node }) => (
+          {slovakPosts.map(({ node }) => (
             <div key={node.id} className="fl w-100 w-50-ns w-25-l pa3">
               <div>
                 <Link to={node.fields.slug} className="link db black">
@@ -52,9 +52,9 @@ const RidesPage = ({ data }) => {
             </div>
           ))}
         </div>
-        <h3 className="mw9 black bb mh3-l pv3 mh4 fw1">New Zealand</h3>
+        <h3 className="mw9 black bb mh3-l pv3 mh4 fw1">Austria</h3>
         <div className="w-100 flex flex-wrap w-100-l pa3 pa0-l">
-          {newZealandPosts.map(({ node }) => (
+          {austriaPosts.map(({ node }) => (
             <div key={node.id} className="fl w-100 w-50-ns w-25-l pa3">
               <div>
                 <Link to={node.fields.slug} className="link db black">
@@ -129,10 +129,10 @@ export const query = graphql`
       }
     }
 
-    newZealandPosts: allMarkdownRemark(
+    austriaPosts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: {
-        frontmatter: { publish: { eq: true }, location: { eq: "New Zealand" } }
+        frontmatter: { publish: { eq: true }, location: { eq: "Austria" } }
       }
     ) {
       totalCount
@@ -172,10 +172,10 @@ export const query = graphql`
       }
     }
 
-    taiwanPosts: allMarkdownRemark(
+    slovakPosts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: {
-        frontmatter: { publish: { eq: true }, location: { eq: "Taiwan" } }
+        frontmatter: { publish: { eq: true }, location: { eq: "Slovak" } }
       }
     ) {
       totalCount

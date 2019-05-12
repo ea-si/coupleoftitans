@@ -28,7 +28,7 @@ const IndexPage = ({ data }) => {
   return (
     <IndexLayout>
       <SEO
-        title="Rides, Routes & Inspirations"
+        title="Two titanium bikes, no clue"
         keywords={[
           `bike packing`,
           `journal`,
@@ -129,7 +129,7 @@ export const query = graphql`
     }
     featurePost: allMarkdownRemark(
       filter: {
-        frontmatter: { title: { eq: "Chapter 2 Taiwan Travel: Day 1" } }
+        frontmatter: { title: { eq: "Couple of Tatras Day One" } }
       }
     ) {
       edges {

@@ -1,7 +1,7 @@
 import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
-import LogoImage from "../images/gatsby-icon.png"
+import LogoImage from "../images/CoT.png"
 
 const Header = ({ siteTitle }) => (
   <div className="c-header near-black pv4 ph2 ph3-l flex justify-between items-center flex-none">
@@ -9,7 +9,7 @@ const Header = ({ siteTitle }) => (
   letter-spacing: -1px;
 }">
       <Link to="/" className="near-black no-underline ttc link c-header_logo-container">
-        <img className="c-header__logo-image" src={LogoImage} alt="logo" />
+        <img className="c-header__logo-image" src={LogoImage} alt="CoT" hspace="6" />
         {siteTitle}
       </Link>
     </h2>

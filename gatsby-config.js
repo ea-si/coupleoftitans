@@ -1,11 +1,11 @@
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: `Goneriding`,
-    siteUrl: `https://goneriding.co`,
-    description: `Rides, Routes & Inspirations. Journal by Jacky Lee.`,
+    title: `Couple of Titans`,
+    siteUrl: `https://www.coupleoftitans.com`,
+    description: `Two titanium bikes, no clue.`,
     author: `@gatsbyjs`,
-    image: `src/images/metaImage.png`,
+    image: `src/images/CoT.png`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#4E4E4E`,
         theme_color: `#4E4E4E`,
         display: `standalone`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/CoT.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

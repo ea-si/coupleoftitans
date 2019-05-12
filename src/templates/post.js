@@ -36,7 +36,7 @@ class PostPage extends Component {
   }
 
   fetchData() {
-    let publicAccessToken = '011c89ee01402ab591de0240d59ee84455fd4d42'
+    let publicAccessToken = '27cc7eb64cac125f1749969ab5427fcdf4effb0d'
     let activityApiUrl =
       'https://www.strava.com/api/v3/activities/' +
       this.state.post.frontmatter.strava_id
