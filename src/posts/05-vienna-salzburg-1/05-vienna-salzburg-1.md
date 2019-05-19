@@ -62,3 +62,6 @@ What comes down must go up. We tackle a few more switchbacks of the day and get 
 <image-zoom><img src='42581687980_f10ad6b27a_k.jpg'/></image-zoom>
 </div>
 </div>
+<div>
+<video src="2018-08-29 17.09.02.MP4" type="mp4" controls></video>
+</div>
