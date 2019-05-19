@@ -22,7 +22,7 @@ const SecondPage = () => (
             ,{' '}
             <a className="link dim black" href="http://tachyons.io">
               Tachyons
-            </a>{' '}
+            </a>{' '}&{' '}
             <a className="link dim black" href="https://www.gatsbyjs.org">
               Gatsby</a>.
           </p>
