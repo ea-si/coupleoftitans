@@ -102,3 +102,5 @@ We beat the hill and arrive to our accommodation close to <a href="https://en.wi
 # Day two stories
 
 If you've come this far reading, there are <a href="https://www.instagram.com/stories/highlights/17947480132118082/">highlights and short fragments of the day one</a> on our <a href="https://www.instagram.com/coupleoftitans/">CoT instagram</a>
+
+or Continue reading about <a href="/rides/around-tatras-3">Around Tatras Day Three</a>.

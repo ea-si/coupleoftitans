@@ -60,3 +60,5 @@ As we hit the descend I’m really glad I’m running disc brakes on my all road
 # Day three stories
 
 If you've come this far reading, there are <a href="https://www.instagram.com/stories/highlights/17942420491083674/">highlights and short fragments of the day one</a> on our <a href="https://www.instagram.com/coupleoftitans/">CoT instagram</a>
+
+or continue reading about <a href="/rides/around-tatras-4">Around Tatras Day Four</a>.

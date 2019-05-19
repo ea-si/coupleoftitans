@@ -84,3 +84,5 @@ We arrive at our accommodation in time for the dinner and well-deserved sleep af
 # Day one stories
 
 If you've come this far reading, there are <a href="https://www.instagram.com/stories/highlights/17887212055242465/">highlights and short fragments of the day one</a> on our <a href="https://www.instagram.com/coupleoftitans/">CoT instagram</a>
+
+or continue reading about <a href="/rides/around-tatras-2">Around Tatras Day Two</a>.
