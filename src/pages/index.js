@@ -129,7 +129,7 @@ export const query = graphql`
     }
     featurePost: allMarkdownRemark(
       filter: {
-        frontmatter: { title: { eq: "Couple of Tatras Day One" } }
+        frontmatter: { title: { eq: "Leaving Vienna into the mountain ridge towards Salzburg" } }
       }
     ) {
       edges {

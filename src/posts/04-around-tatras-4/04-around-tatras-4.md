@@ -7,7 +7,7 @@ strava_id: 1722333886
 cover_image: '2018-07-23 14.40.21-1.jpg'
 social_image: '2018-07-23 14.40.21-1.jpg'
 location: Slovak
-author: Boris Stefanik
+author: Boris
 publish: true
 route_file: 'around-tatras-4.gpx'
 ---

@@ -2,12 +2,12 @@
 path: '/rides/vienna-salzburg-1'
 date: '2018-08-29'
 title: 'Leaving Vienna into the mountain ridge towards Salzburg'
-excerpt: 'You don’ really know what you can ride until you try. '
+excerpt: 'You don’ really know what you can ride until you try'
 strava_id: 1805879640
 cover_image: '42593123730_f70d39ec52_k.jpg'
 social_image: '44340980852_09e72daebf_k.jpg'
 location: Austria
-author: Boris Stefanik
+author: Boris
 publish: true
 route_file: 'vienna-salzburg-1.gpx'
 ---

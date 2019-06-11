@@ -7,7 +7,7 @@ strava_id: 1945947712
 cover_image: 'Photo 04-11-2018, 17 11 08.jpg'
 social_image: 'Photo 04-11-2018, 17 00 36.jpg'
 location: Austria
-author: Boris Stefanik
+author: Boris
 publish: true
 route_file: 'these-assholes.gpx'
 ---
