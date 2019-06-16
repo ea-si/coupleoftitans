@@ -6,8 +6,8 @@ excerpt: 'You don’ really know what you can ride until you try'
 strava_id: 1805879640
 cover_image: '42593123730_f70d39ec52_k.jpg'
 social_image: '44340980852_09e72daebf_k.jpg'
-location: Austria
-author: Boris
+location: 'Austria'
+author: 'Boris'
 publish: true
 route_file: 'vienna-salzburg-1.gpx'
 ---

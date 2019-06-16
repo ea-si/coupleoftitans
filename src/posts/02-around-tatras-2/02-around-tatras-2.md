@@ -6,7 +6,7 @@ excerpt: After a day of climbing crossing the border
 strava_id: 1718133473
 cover_image: '30126591108_ac5e7c5e37_k.jpg'
 social_image: '30126591108_ac5e7c5e37_k.jpg'
-location: Slovak
+location: 'Slovakia'
 author: Boris
 publish: true
 route_file: 'around-tatras-2.gpx'

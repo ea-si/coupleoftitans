@@ -6,7 +6,7 @@ excerpt: 'Back in the Tatra business'
 strava_id: 1720330083
 cover_image: 'DSC04737.jpg'
 social_image: 'DSC04737.jpg'
-location: Slovak
+location: 'Slovakia'
 author: Boris
 publish: true
 route_file: 'around-tatras-3.gpx'

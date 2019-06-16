@@ -175,7 +175,7 @@ export const query = graphql`
     slovakPosts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: {
-        frontmatter: { publish: { eq: true }, location: { eq: "Slovak" } }
+        frontmatter: { publish: { eq: true }, location: { eq: "Slovakia" } }
       }
     ) {
       totalCount
