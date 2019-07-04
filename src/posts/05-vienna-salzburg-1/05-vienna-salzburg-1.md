@@ -65,3 +65,5 @@ What comes down must go up. We tackle a few more switchbacks of the day and get 
 <div>
 <video src="2018-08-29 17.09.02.MP4" type="mp4" controls></video>
 </div>
+
+Continue reading about the next day <a href="/rides/vienna-salzburg-2">Valhalla lies in the Alps</a>.
