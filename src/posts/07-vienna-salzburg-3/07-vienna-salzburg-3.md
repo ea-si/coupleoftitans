@@ -3,7 +3,7 @@ path: '/rides/vienna-salzburg-3'
 date: '2018-08-31'
 title: 'From one lake to another'
 excerpt: 'Sometimes bikepacking can be a strange adventure'
-strava_id: '1809910985'
+strava_id: 1809910985
 cover_image: '44390339491_0e88e7cf84_k.jpg'
 social_image: '44390339491_0e88e7cf84_k.jpg'
 location: 'Austria'
